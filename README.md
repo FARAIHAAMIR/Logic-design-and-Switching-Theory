@@ -1,7 +1,7 @@
-Circuit Overview
-
+#Circuit Overview
+---
 Course: Logic designing and switching theory (CS-251) Section: B Department: BCIT
-
+---
 Summary
 
 Thus the circuit function works as follows:
